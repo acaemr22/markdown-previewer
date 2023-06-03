@@ -1,7 +1,7 @@
 # markdown-previewer App
 This project built with React 18.
 
-[Link](https://acaemr.22.github.io/markdown-previewer/) to the deployed site.
+[Link](https://acaemr22.github.io/markdown-previewer/) to the deployed site.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
